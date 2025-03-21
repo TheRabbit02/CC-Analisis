@@ -11,4 +11,4 @@ pip3 install cdsapi
 
 Si todo sale bien ya esta listo para hacer solicitudes
 
-Solicitud.ipynb es un codigo que genera 21 solicitudes para los años entre 1961 y 2024, para todos los dias de todos los meses a las 18:00 utc para la region contenida en [-32, -71.75, -34, -70] para las presiones entre 1000 y 850 hpa en formato "netcdf" en grupos de 3 años (lo que permitia el limite
+Solicitud.ipynb es un codigo que genera 21 solicitudes para los años entre 1961 y 2024, para todos los dias de todos los meses a las 18:00 utc para la region contenida en [-32, -71.75, -34, -70] para las presiones entre 1000 y 850 hpa en formato "netcdf" en grupos de 3 años (lo que permitia el limite)
